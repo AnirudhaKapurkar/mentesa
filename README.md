@@ -10,8 +10,6 @@ Designed for creators, founders, educators, and developers, Mentesa lets you bui
 
 🔗 [https://developer.Mentesa.live](https://developer.Mentesa.live)
 
-🔗 [https://mayurkoli.Mentesa.live](https://mayurkoli.Mentesa.live)
-
 ---
 
 ## 🚀 Key Features
@@ -136,5 +134,6 @@ https://developer.mentesa.live/
 ---
 
 > Build AI assistants, not just chatbots. Mentesa lets everyone create AI that works *for* them.
+
 
 
