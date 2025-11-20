@@ -139,11 +139,9 @@ Fork → Create Branch → Commit → PR
 ---
 
 ## 📬 Contact
-
-**Founder:** Mayur Koli
-📧 [kolimohit9595@gmail.com](mailto:kolimohit9595@gmail.com)
-🌐 [https://mayurkoli.Mentesa.live](https://mayurkoli.Mentesa.live)
+https://developer.mentesa.live/
 
 ---
 
 > Build AI assistants, not just chatbots. Mentesa lets everyone create AI that works *for* them.
+
