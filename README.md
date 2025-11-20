@@ -14,7 +14,7 @@ Designed for creators, founders, educators, and developers, Mentesa lets you bui
 
 ---
 
-## 🚀 What's New in **Version 7**
+## 🚀 Key Features
 
 * 🌍 **Bots Anywhere** — Embed Mentesa AI bots on any website with 1‑line script
 * 💬 **Floating Website Chat Widget** — Add AI assistants to your site like Intercom / Crisp
@@ -25,7 +25,7 @@ Designed for creators, founders, educators, and developers, Mentesa lets you bui
 
 ---
 
-## ✨ Core Features
+## ✨ Core Functionality
 
 * 🛠️ Create AI bots with natural language prompts
 * 📄 Upload docs + website text for knowledge
@@ -130,18 +130,11 @@ uvicorn main:app --reload
 
 ---
 
-## 🧑‍💻 Contributing
-
-```
-Fork → Create Branch → Commit → PR
-```
-
----
-
 ## 📬 Contact
 https://developer.mentesa.live/
 
 ---
 
 > Build AI assistants, not just chatbots. Mentesa lets everyone create AI that works *for* them.
+
 
